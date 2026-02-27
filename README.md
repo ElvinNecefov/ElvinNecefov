@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I’m a frontend developer with 5+ years of experience building scalable, high-performance web applications.
+I’m a frontend developer with 4+ years of experience building scalable, high-performance web applications.
 
 I specialize in architecting modern React and Next.js applications with clean structure, reusable components, and optimized performance.
 
