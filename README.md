@@ -77,12 +77,11 @@ I focus on bridging clean code principles with business needs — building scala
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElvinNecefov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvinNecefov&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElvinNecefov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="55%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElvinNecefov&theme=tokyonight&hide_border=true" width="97%" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElvinNecefov&theme=tokyonight&hide_border=true" width="55%" />
 </div>
 
 ---
