@@ -17,13 +17,14 @@
 
 ### 🧠 About Me
 
-I am a results-driven **Frontend Engineer** specializing in architecting modern, high-performance web applications with **React**, **Next.js (App Router)**, and **TypeScript**. 
+I am a results-driven **Frontend Engineer** specializing in architecting modern, high-performance web applications with **React**, **Next.js (App Router)**, and **TypeScript**.
 
 I focus on bridging clean code principles with business needs — building scalable enterprise systems (CRMs, admin portals, e-commerce) with strict type safety, modular architecture, and seamless UX.
 
 * 🔭 **Currently Working On:** Enterprise CRM system with role-based auth, dynamic data tables, and advanced server state caching.
 * ⚡ **Core Philosophy:** *Code is written for humans to read, maintain, and scale — performance and simplicity come first.*
 * 🎯 **Engineering Standards:** Zero tolerance for `any` types, clean separation of concerns (Services / Custom Hooks / UI), and automated testing.
+* 🔒 **Note:** Most of my work lives in private repositories (commercial projects). Feel free to reach out for a portfolio walkthrough or code review session.
 
 ---
 
@@ -61,7 +62,6 @@ I focus on bridging clean code principles with business needs — building scala
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
 </p>
-
 
 #### ⚙️ Tooling, DevOps & Workflows
 <p>
