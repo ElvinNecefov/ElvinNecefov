@@ -1,83 +1,101 @@
-<h1 align="center">Hi 👋, I'm Elvin Najafov</h1>
+<div align="center">
 
-<p align="center">
-  Frontend Developer • React & Next.js Specialist  
+  <h1>Hi 👋, I'm Elvin Najafov</h1>
+  <p><strong>Frontend Engineer • React & Next.js Specialist • TypeScript Advocate</strong></p>
+
+  <p>
+    <a href="https://linkedin.com/in/elvin-najafov" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://img.shields.io/badge/Focus-Enterprise%20CRM%20%26%20Scalable%20Web%20Apps-blue?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/Open%20To-Remote%20%26%20Middle%20Opportunities-success?style=for-the-badge" alt="Status" />
+  </p>
+
+</div>
+
+---
+
+### 🧠 About Me
+
+I am a results-driven **Frontend Engineer** specializing in architecting modern, high-performance web applications with **React**, **Next.js (App Router)**, and **TypeScript**. 
+
+I focus on bridging clean code principles with business needs — building scalable enterprise systems (CRMs, admin portals, e-commerce) with strict type safety, modular architecture, and seamless UX.
+
+* 🔭 **Currently Working On:** Enterprise CRM system with role-based auth, dynamic data tables, and advanced server state caching.
+* ⚡ **Core Philosophy:** *Code is written for humans to read, maintain, and scale — performance and simplicity come first.*
+* 🎯 **Engineering Standards:** Zero tolerance for `any` types, clean separation of concerns (Services / Custom Hooks / UI), and automated testing.
+
+---
+
+### 🛠️ Tech Stack & Architecture
+
+#### 🌐 Core & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%2018%2F19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+#### ⚡ State Management & Data Fetching
+<p>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+#### 🎨 Styling & UI Systems
+<p>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass%2FSCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
+
+#### 📋 Forms, Validation & Testing
+<p>
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+</p>
+
+#### ⚙️ Tooling, DevOps & Workflows
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 About Me
+### 📊 GitHub Activity & Analytics
 
-I’m a frontend developer with 4+ years of experience building scalable, high-performance web applications.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElvinNecefov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvinNecefov&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-I specialize in architecting modern React and Next.js applications with clean structure, reusable components, and optimized performance.
-
-Currently focused on:
-- Advanced React patterns
-- Frontend system design
-- Performance optimization
-- Scalable project architecture
-
----
-
-## 🚀 Tech Stack
-
-### Core
-JavaScript (ES6+) • TypeScript • React • Next.js
-
-### State Management
-Redux Toolkit • Context API
-
-### Styling
-CSS3 • SASS • Bootstrap • MUI • Ant Design • Mantine
-
-### Forms & Routing
-React Hook Form • React Router
-
-### Build Tools
-Vite • Webpack • Babel • NPM • Yarn
-
-### Backend & Services
-Firebase • REST API Integration
-
-### Tools
-Git • GitHub • GitLab • Postman • Jira • Trello • Figma
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElvinNecefov&theme=tokyonight&hide_border=true" width="97%" />
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+### 💡 Architectural Principles I Follow
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+- **Strict Type-Safety:** Zero `any` policy; strict DTO models matching backend contracts.
+- **Clean Architecture:** Isolation of business logic in custom hooks/services, keeping UI components pure and testable.
+- **Performance First:** Core Web Vitals optimization, code splitting, memoization where necessary, and intelligent caching with TanStack Query.
+- **Enterprise UX:** Accessible forms, instant feedback, optimistic UI updates, and robust error boundaries.
 
 ---
 
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="YOUR_LINK"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="YOUR_LINK"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-</p>
-
----
-
-## 💡 Philosophy
-
-> Clean code is not written for machines — it is written for humans.
-
----
-
-<p align="center">
-  ⚡ Building scalable frontend systems with performance in mind.
-</p>
+<div align="center">
+  <p>⚡ <i>"Simplicity is prerequisite for reliability."</i> — Edsger W. Dijkstra</p>
+</div>
